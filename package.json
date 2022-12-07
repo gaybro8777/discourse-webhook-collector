@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "4.15.x",
+    "express": "4.17.x",
     "keen-analysis": "^1.2.2",
     "keen-tracking": "^1.1.3",
     "lodash.find": "^4.6.0",
